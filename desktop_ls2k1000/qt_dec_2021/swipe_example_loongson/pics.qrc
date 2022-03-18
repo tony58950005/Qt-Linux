@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background/UbuntuStyle.jpg</file>
+        <file>icon/1.png</file>
+        <file>icon/1_.png</file>
+        <file>icon/2.png</file>
+        <file>icon/3.png</file>
+        <file>icon/4.png</file>
+        <file>icon/4_.png</file>
+        <file>icon/5.png</file>
+        <file>icon/6.png</file>
+        <file>icon/7.png</file>
+        <file>icon/7_.png</file>
+        <file>icon/8.png</file>
+        <file>icon/9.png</file>
+        <file>icon/9_.png</file>
+        <file>icon/10.png</file>
+        <file>icon/11.png</file>
+        <file>icon/11_.png</file>
+        <file>icon/12.png</file>
+        <file>icon/12_.png</file>
+        <file>icon/13.png</file>
+        <file>icon/14.png</file>
+        <file>icon/14_.png</file>
+        <file>icon/14__.png</file>
+        <file>icon/15.png</file>
+        <file>icon/15_.png</file>
+        <file>icon/16.png</file>
+        <file>icon/16_.png</file>
+        <file>icon/17.png</file>
+        <file>icon/17_.png</file>
+        <file>icon/18.png</file>
+        <file>icon/page1.png</file>
+        <file>icon/page2.png</file>
+        <file>icon/qtlogo.png</file>
+        <file>background/UbuntuStyle2.jpg</file>
+        <file>background/UbuntuStyle3.jpg</file>
+        <file>background/UbuntuStyle4.jpg</file>
+    </qresource>
+</RCC>

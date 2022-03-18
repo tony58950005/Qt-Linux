@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/icon/close1.png</file>
+        <file>Resource/icon/close2.png</file>
+        <file>Resource/weather/未定义.png</file>
+        <file>Resource/weather/雾霾.png</file>
+        <file>Resource/weather/雾.png</file>
+        <file>Resource/weather/雷阵雨夹冰雹.png</file>
+        <file>Resource/weather/雷阵雨.png</file>
+        <file>Resource/weather/雨夹雪.png</file>
+        <file>Resource/weather/阵雪.png</file>
+        <file>Resource/weather/阵雨.png</file>
+        <file>Resource/weather/阴.png</file>
+        <file>Resource/weather/浮尘.png</file>
+        <file>Resource/weather/沙尘暴.png</file>
+        <file>Resource/weather/暴雨.png</file>
+        <file>Resource/weather/晴.png</file>
+        <file>Resource/weather/扬沙.png</file>
+        <file>Resource/weather/微风.png</file>
+        <file>Resource/weather/小雾.png</file>
+        <file>Resource/weather/小雪.png</file>
+        <file>Resource/weather/小雨.png</file>
+        <file>Resource/weather/大风.png</file>
+        <file>Resource/weather/大雾.png</file>
+        <file>Resource/weather/大雪.png</file>
+        <file>Resource/weather/大雨.png</file>
+        <file>Resource/weather/夜间晴.png</file>
+        <file>Resource/weather/夜间多云.png</file>
+        <file>Resource/weather/多云.png</file>
+        <file>Resource/weather/台风.png</file>
+        <file>Resource/weather/中雾.png</file>
+        <file>Resource/weather/中雪.png</file>
+        <file>Resource/weather/中雨.png</file>
+        <file>Resource/weather/notready.png</file>
+    </qresource>
+</RCC>
